@@ -8,11 +8,10 @@
 #define MAX_TEAM_COUNT 64
 #define TEAM_COLORS_LEN 20
 
-#define API_KEY "AIzaSyDdPUw7fL6B3tduJKHV9NyU6wveOl3Re-U" // Please be nice
 #define SPREADSHEET_ID "1JXpmjPBp9jPgNV9JzadyE0ZJ1xovF4pDf5BpP50aYlg"
 #define SHEET_NAME "Sheet1"
 #define SHEET_ID "0"
-#define GOOGLE_SHEETS_URL "GET https://sheets.googleapis.com/v4/spreadsheets/1JXpmjPBp9jPgNV9JzadyE0ZJ1xovF4pDf5BpP50aYlg/values/Sheet1!A:B?key=AIzaSyDdPUw7fL6B3tduJKHV9NyU6wveOl3Re-U"
+#define GOOGLE_SHEETS_URL "GET https://sheets.googleapis.com/v4/spreadsheets/1JXpmjPBp9jPgNV9JzadyE0ZJ1xovF4pDf5BpP50aYlg/values/Sheet1!A:B?key=" // Go find api key on google console or whatever
 
 #define JSON_BUF_SIZE 4096
 
