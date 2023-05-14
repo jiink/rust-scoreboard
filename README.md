@@ -1,3 +1,3 @@
-# web-scoreboard
+# rust-scoreboard
  
-Status: Barely started 😴
+Simple Rust Program that reads scoreboard data from a Google Sheets spreadsheet and displays it graphicallyt using Raylib.
